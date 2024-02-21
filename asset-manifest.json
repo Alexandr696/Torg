@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alexandr696/Torg/static/css/main.5760816e.css",
+    "main.js": "/Alexandr696/Torg/static/js/main.b73216da.js",
+    "index.html": "/Alexandr696/Torg/index.html",
+    "main.5760816e.css.map": "/Alexandr696/Torg/static/css/main.5760816e.css.map",
+    "main.b73216da.js.map": "/Alexandr696/Torg/static/js/main.b73216da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5760816e.css",
+    "static/js/main.b73216da.js"
+  ]
+}
